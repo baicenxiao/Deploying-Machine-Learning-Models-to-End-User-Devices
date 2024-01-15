@@ -1,1 +1,2 @@
 # Deploying-Machine-Learning-Models-to-End-User-Devices
+This repo contains all the code for the Medium article serires ["Deploying Machine Learning Models to End-User Devices"](https://medium.com/me/stats/post/07c9ddcc58aa).
