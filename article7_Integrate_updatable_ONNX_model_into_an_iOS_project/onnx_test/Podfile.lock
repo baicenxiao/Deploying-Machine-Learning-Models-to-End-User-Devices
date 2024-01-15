@@ -1,0 +1,22 @@
+PODS:
+  - onnxruntime-training-c (1.16.3)
+  - onnxruntime-training-objc (1.16.3):
+    - onnxruntime-training-objc/Core (= 1.16.3)
+  - onnxruntime-training-objc/Core (1.16.3):
+    - onnxruntime-training-c (= 1.16.3)
+
+DEPENDENCIES:
+  - onnxruntime-training-objc (~> 1.16.0)
+
+SPEC REPOS:
+  trunk:
+    - onnxruntime-training-c
+    - onnxruntime-training-objc
+
+SPEC CHECKSUMS:
+  onnxruntime-training-c: 07d697ced05dd87d620246c07f62c5e70d25256d
+  onnxruntime-training-objc: 4b0e0075faf1ebbf8d1b3c76f522141dbe64ed4d
+
+PODFILE CHECKSUM: 951d7febbcd42cb72491d920301f12000e130180
+
+COCOAPODS: 1.14.3
